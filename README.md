@@ -18,7 +18,7 @@
 
 <br>
 
-* ### 융복합 프로젝트
+* ### 스마트팜을 위한 잡초 인식, 제거 시스템
 
   * [See repository](https://github.com/IncheonYSH/Mix_project)
 
